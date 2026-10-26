@@ -2,7 +2,7 @@
 
 FROM ghcr.io/sigstore/cosign/cosign:latest AS cosign-bin
 
-FROM ghcr.io/linuxserver/baseimage-alpine-nginx:3.24
+FROM ghcr.io/linuxserver-playground/baseimage-alpine-nginx:3.24
 
 # set version label
 ARG BUILD_DATE
