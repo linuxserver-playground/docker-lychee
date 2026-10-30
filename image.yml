@@ -16,6 +16,11 @@ upstream:
   notes:
     type: github_release
     repo: LycheeOrg/Lychee
+  sponsor:
+  - name: Lychee (GitHub Sponsors)
+    url: https://github.com/sponsors/LycheeOrg
+  - name: Lychee (Open Collective)
+    url: https://opencollective.com/LycheeOrg
 
 release:
   branch: master
