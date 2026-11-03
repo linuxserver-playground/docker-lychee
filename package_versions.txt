@@ -57,7 +57,7 @@ clap_complete                          4.5.54            rust-crate
 clap_lex                               0.7.5             rust-crate                    
 clue/stream-filter                     v1.7.0            php-composer                  
 colorchoice                            1.0.4             rust-crate                    
-composer                               2.10.3            php-composer                  
+composer                               2.11.1            php-composer                  
 composer/semver                        3.5.1             php-composer                  
 console                                0.15.11           rust-crate                    
 core2                                  0.4.0             rust-crate                    
@@ -134,12 +134,12 @@ harfbuzz                               13.2.1-r0         apk
 hwdata-pci                             0.408-r0          apk                           
 icu-data-en                            78.1-r0           apk                           
 icu-libs                               78.1-r0           apk                           
-imagemagick                            7.1.2.34-r0       apk                           
-imagemagick-jpeg                       7.1.2.34-r0       apk                           
-imagemagick-jxl                        7.1.2.34-r0       apk                           
-imagemagick-libs                       7.1.2.34-r0       apk                           
-imagemagick-tiff                       7.1.2.34-r0       apk                           
-imagemagick-webp                       7.1.2.34-r0       apk                           
+imagemagick                            7.1.2.35-r0       apk                           
+imagemagick-jpeg                       7.1.2.35-r0       apk                           
+imagemagick-jxl                        7.1.2.35-r0       apk                           
+imagemagick-libs                       7.1.2.35-r0       apk                           
+imagemagick-tiff                       7.1.2.35-r0       apk                           
+imagemagick-webp                       7.1.2.35-r0       apk                           
 interpolate_name                       0.2.4             rust-crate                    
 is_terminal_polyfill                   1.70.1            rust-crate                    
 itertools                              0.10.5            rust-crate                    
@@ -195,7 +195,7 @@ libdvdnav                              6.1.1-r1          apk
 libdvdread                             6.1.3-r2          apk                           
 libeconf                               0.8.3-r0          apk                           
 libedit                                20260508.3.1-r1   apk                           
-libexpat                               2.9.0-r0          apk                           
+libexpat                               2.10.0-r0         apk                           
 libffi                                 3.5.2-r1          apk                           
 libflac                                1.4.3-r2          apk                           
 libgcc                                 15.2.0-r5         apk                           
